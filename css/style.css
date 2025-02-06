@@ -58,6 +58,10 @@ h1, h2, h3 {
   border-radius: 1.25rem;
   overflow: hidden;
   text-align: center;
+  transition: all 0.150s ease-in-out;
+}
+.card:hover{
+    transform: scale(1.05);
 }
 .card__image {
   background-image: url("https://mouadbimk.github.io/qr-code-page/images/image-qr-code.png");
