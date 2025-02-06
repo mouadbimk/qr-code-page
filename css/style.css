@@ -60,7 +60,7 @@ h1, h2, h3 {
   text-align: center;
 }
 .card__image {
-  background-image: url("/images/image-qr-code.png");
+  background-image: url("https://mouadbimk.github.io/qr-code-page/images/image-qr-code.png");
   width: 18.125rem;
   height: 18.125rem;
   background-position: center center;
